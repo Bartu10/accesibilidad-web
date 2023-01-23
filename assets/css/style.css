@@ -18,10 +18,10 @@
     color: #48C9B0;
 }
 a{
-    color: #48C9B0 ;
+    color: #000 ;
 }
 a:hover{
-    color: #6c757d ;
+    color: red ;
 }
 
 h3{
