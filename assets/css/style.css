@@ -190,7 +190,7 @@ main{
 }
 
 .detalle-cabecera  h2, .detalle-cabecera span{
-    color: #fff;
+    color: black;
     width: 100%;
 }
 .detalle-cabecera button{
