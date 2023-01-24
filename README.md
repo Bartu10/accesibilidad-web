@@ -1,19 +1,24 @@
 ﻿
-# Hola!👋 Soy Alejandro 🧑‍💻,
+# Javier Bartus 
 
-Este proyecto pertenece a la práctica de Accesibilidad Web.
+## Vengo a explicar como he arreglado la web, haciendola accesible.
 
-## Módulo Diseño de Interfaces Web 🎨 
+##### He utilizado Wave, debido a la facilidad de uso que tiene y a lo bien que te expone los errores, dandote informacion ademas de como solucionarlos.
 
-Práctica - Accesibilidad Web
+##### Errores que me he encontrado:
 
-# Lenguajes y Tecnologías 💻
-![](https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/5ed492db9c79ad5990eda7dc80923377f0e7096b18a4d1e9b86c8987dc0e5aa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/62d37abe760867620e0baea1066303719d630a82936837ba7bff6b0c754e3c9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
-![](https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+-El no uso de label en los formularios, lo he arreglado envolviendo cada input dentro de un label, esto se hace para que gente con por ejemplo ceguera sea capaz de moverse por el formulario usando solo el tabulador.
 
-----------------------------------------
-[ 2023 | Desarrollo de aplicaciones web | IES Rafael Alberti ]
+-El no uso de alt en las imagenes, esto sirve para cuando las imagenes no cargen o para gente que con ceguera, ya que al no poder ver una foto, exista un texto el cual te explique la imagen
+
+-Links a distintos sitios de la web los cuales para llegar a ellos tenias que presionar sobre un icono, esto para gente con ceguera es imposible de saber hacia donde te iba a llevar, por tanto aparte del icono, les he añadido texto a estos explicando hacia donde llevaban
+
+-Habia problemas con el contraste ya que habia algunos textos blancos sobre un fondo azul agua (#48C9B0), para solucionar esto he cambiado el color de las letras a negro, para que haya buen contraste, esto para gente con problemas de vista como daltonicos o personas con visión reducida, tambian ocurria lo contrario en el footer de la web links con letras de color azul agua y fondo en blanco, en este caso he cambiado las letras por color negro.
+
+-He añadido el idioma de la web dentro de la etiqueta html, la cual no venia añadida
+
+-Por último tambien habia inputs los cuales solo tenian placeholder, y no tenian texto y esto para moverse con el tabulador es un error, por tanto les he añadido texto
+
+
 
 
