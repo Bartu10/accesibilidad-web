@@ -190,14 +190,15 @@ main{
     background: #48C9B0;
 }
 
-.detalle-cabecera  h2, .detalle-cabecera span{
+.detalle-cabecera span{
     color: black;
     width: 100%;
 
 }
-.detalle-cabecera h2 .fraseWhite{
-    color: white;
+.detalle-cabecera  h2{
+   color: white; 
 }
+
 .detalle-cabecera button{
     margin-top: 10px;
 }
