@@ -2,9 +2,7 @@
 
 
 /* GENÉRICO */
-.fraseWhite{
-    color: white;
-}
+
 
 .bg-verde-claro{
     background: #E8F8F5;
@@ -195,6 +193,10 @@ main{
 .detalle-cabecera  h2, .detalle-cabecera span{
     color: black;
     width: 100%;
+
+}
+.detalle-cabecera h2 .fraseWhite{
+    color: white;
 }
 .detalle-cabecera button{
     margin-top: 10px;
